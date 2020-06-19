@@ -13,11 +13,10 @@ You're sections headers will be used to reference location of destination.
 ---
 
 ## Description
-
 C program which takes movie reviews as input, process them and then if you give it a new review it gives you as a result if this review is positive or negative
-=======
 
-#### Technologies
+
+## Technologies
 
 - C
 - Linux
