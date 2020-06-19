@@ -1,12 +1,7 @@
+
 # Movie Review
+=======
 
-[//]: <> (<img src="images/menu.png" width=250>)
-[//]: <> (<img src="images/add.png" width=250>)
-
-[//]: <> (![Project Image](images/menu.png)
-[//]: <> (![Project Image](images/add.png)
-
-[//]: <> (> This is a ReadMe template to help save you time and effort.)
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
@@ -22,6 +17,7 @@ You're sections headers will be used to reference location of destination.
 ## Description
 
 C program which takes movie reviews as input, process them and then if you give it a new review it gives you as a result if this review is positive or negative
+=======
 
 #### Technologies
 
