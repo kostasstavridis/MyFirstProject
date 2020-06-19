@@ -15,13 +15,16 @@ You're sections headers will be used to reference location of destination.
 ## Description
 C program which takes movie reviews as input, process them and then if you give it a new review it gives you as a result if this review is positive or negative
 
+[Back To The Top](#movie-review)
+
+---
 
 ## Technologies
 
 - C
 - Linux
 
-[Back To The Top](#java-database-application-with-gui)
+[Back To The Top](#movie-review)
 
 ---
 
@@ -48,7 +51,7 @@ or
 
 ./project reviews_large.txt input_large.txt > my_output_large.txt
 ```
-[Back To The Top](#java-database-application-with-gui)
+[Back To The Top](#movie-review)
 
 ---
 
@@ -60,7 +63,7 @@ or
 
 Licensed under the [MIT License](LICENSE)
 
-[Back To The Top](#java-database-application-with-gui)
+[Back To The Top](#movie-review)
 
 ---
 
@@ -69,5 +72,5 @@ Licensed under the [MIT License](LICENSE)
 - Linkedin - [@konstantinos stavridis](linkedin.com/in/kostas-stavridis-b79a5b16b)
 
 
-[Back To The Top](#java-database-application-with-gui)
+[Back To The Top](#movie-review)
 
