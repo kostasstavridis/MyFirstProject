@@ -1,12 +1,5 @@
 # Movie Review
 
-[//]: <> (<img src="images/menu.png" width=250>)
-[//]: <> (<img src="images/add.png" width=250>)
-
-[//]: <> (![Project Image](images/menu.png)
-[//]: <> (![Project Image](images/add.png)
-
-[//]: <> (> This is a ReadMe template to help save you time and effort.)
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
