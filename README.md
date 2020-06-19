@@ -1,14 +1,12 @@
-# Java Database Application with GUI
+# Movie Review
 
-<img src="images/menu.png" width=250>
-<img src="images/add.png" width=250>
+[//]: <> (<img src="images/menu.png" width=250>)
+[//]: <> (<img src="images/add.png" width=250>)
 
 [//]: <> (![Project Image](images/menu.png)
 [//]: <> (![Project Image](images/add.png)
 
 [//]: <> (> This is a ReadMe template to help save you time and effort.)
-
----
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
@@ -23,14 +21,14 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-C program that 
+C program which takes movie reviews as input, process them and then if you give it a new review it gives you as a result if this review is positive or negative
 
 #### Technologies
 
 - C
 - Linux
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#java-database-application-with-gui)
 
 ---
 
@@ -57,40 +55,19 @@ or
 
 ./project reviews_large.txt input_large.txt > my_output_large.txt
 ```
-[Back To The Top](#read-me-template)
+[Back To The Top](#java-database-application-with-gui)
 
 ---
 
-## References
-[Back To The Top](#read-me-template)
 
----
 
-## License
+## License & copyright
 
-MIT License
+© Konstantinos Stavridis
 
-Copyright (c) [2020] [Konstantinos Stavridis]
+Licensed under the [MIT License](LICENSE)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[Back To The Top](#read-me-template)
+[Back To The Top](#java-database-application-with-gui)
 
 ---
 
@@ -99,5 +76,5 @@ SOFTWARE.
 - Linkedin - [@konstantinos stavridis](linkedin.com/in/kostas-stavridis-b79a5b16b)
 
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#java-database-application-with-gui)
 
