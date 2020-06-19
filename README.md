@@ -13,7 +13,7 @@ You're sections headers will be used to reference location of destination.
 ---
 
 ## Description
-C program which takes movie reviews as input, process them and then if you give it a new review it gives you as a result if this review is positive or negative
+This program takes movie reviews as an input and uses them to assign a score to every possible word in English. According to this, the program will be able to evaluate whether a new movie review is positive or negative.
 
 [Back To The Top](#movie-review)
 
