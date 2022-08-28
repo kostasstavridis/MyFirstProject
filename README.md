@@ -69,7 +69,7 @@ Licensed under the [MIT License](LICENSE)
 
 ## Author Info
  
-- Linkedin - [@konstantinos stavridis](linkedin.com/in/kostas-stavridis)
+- Linkedin - [@konstantinos stavridis](https://www.linkedin.com/in/kostas-stavridis)
 
 
 [Back To The Top](#movie-review)
